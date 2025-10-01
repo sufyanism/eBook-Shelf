@@ -9,7 +9,7 @@ cd ebook-shelf
 npm create vite@latest .  
 
 ## Choose project options when prompted:
-`Framework → React`
+`Framework → React` <br/>
 `Variant → JavaScript`
 
 ## Install dependencies
