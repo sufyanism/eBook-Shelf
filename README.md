@@ -33,8 +33,8 @@ Inside your project (ebook-shelf), create a folder for backend:
 npm init -y
 
 ## Install Express and Nodemon
-npm install express cors
-npm install --save-dev nodemon
+`npm install express cors`
+`npm install --save-dev nodemon`
 
 ## Update package.json
 In the backend/package.json, add a dev script:
