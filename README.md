@@ -1,7 +1,7 @@
 Here’s step-by-step modified version of  setup instructions for the ebook shelf project using Vite + React:
 
 
-#Project Setup Instructions
+# Project Setup Instructions
 mkdir ebook-shelf
 cd ebook-shelf
 
@@ -15,7 +15,7 @@ npm create vite@latest .
 ## Install dependencies
 `npm install`
 
-##Install React Router DOM
+## Install React Router DOM
 `npm install react-router-dom`
 
 ### Start the development server
@@ -43,12 +43,11 @@ In the backend/package.json, add a dev script:
   "dev": "nodemon server.js"
 }
 
-Now you can run:
+## Now you can run:
 `npm run dev`
 
 ## Screencast
 https://github.com/user-attachments/assets/31e0dd89-0c80-4708-bc54-f19fc7e0d217
-
 
 ## Screenshot
 ![Ebook Shelf](https://github.com/user-attachments/assets/33a7a333-b7cd-4833-a52a-f5794a9e1192)
