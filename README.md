@@ -2,11 +2,11 @@ Here’s step-by-step modified version of  setup instructions for the ebook shel
 
 
 # Project Setup Instructions
-mkdir ebook-shelf <br/> 
-cd ebook-shelf
+`mkdir ebook-shelf` <br/> 
+`cd ebook-shelf`
 
 ## Initialize a new Vite project
-npm create vite@latest .  
+`npm create vite@latest .  `
 
 ## Choose project options when prompted:
 `Framework → React` <br/>
