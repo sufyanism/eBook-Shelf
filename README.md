@@ -30,7 +30,7 @@ Inside your project (ebook-shelf), create a folder for backend:
 `cd backend`
 
 ## Initialize backend project
-npm init -y
+`npm init -y`
 
 ## Install Express and Nodemon
 `npm install express cors`
