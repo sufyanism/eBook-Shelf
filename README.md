@@ -45,3 +45,11 @@ In the backend/package.json, add a dev script:
 
 Now you can run:
 `npm run dev`
+
+## Screencast
+https://github.com/user-attachments/assets/31e0dd89-0c80-4708-bc54-f19fc7e0d217
+
+
+## Screenshot
+![Ebook Shelf](https://github.com/user-attachments/assets/33a7a333-b7cd-4833-a52a-f5794a9e1192)
+
