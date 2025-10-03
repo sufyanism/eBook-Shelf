@@ -119,28 +119,20 @@ You can further expand with endpoints for **create**, **update**, **delete** (CR
 
 ---
 
-## 🤝 Contributing
+## eBook-Shelf Screenshots
 
-Contributions are welcome! Here’s how you can help:
+### Screenshot
+<p float="left">
+![Ebook Shelf](https://github.com/user-attachments/assets/d96c10f0-d8b2-4650-8f44-dadafa9c462d)
+</p>
 
-1. Fork this repository  
-2. Create a new branch: `git checkout -b feature/YourFeature`  
-3. Make your changes & commit with descriptive messages  
-4. Push your branch and open a Pull Request  
-5. I’ll review and give feedback; once approved, it can be merged  
+### Screecast
+<p float="left">
+https://github.com/user-attachments/assets/332c4ef2-cc42-486e-a04d-d892ab84dc27
+</p>
 
-Please ensure your code is clean, with comments when needed, and that you test your changes.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
-
----
 
 ## ✉️ Contact
-
 If you have questions, suggestions, or want to collaborate, feel free to open an issue or reach out via GitHub profile.
 
 ---
