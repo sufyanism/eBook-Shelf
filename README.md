@@ -1,6 +1,4 @@
 # eBook‑Shelf
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 A simple bookshelf web app that lists eBooks, built with React (Vite) for the frontend and Express.js for the backend API.
 
 ---
@@ -122,17 +120,26 @@ You can further expand with endpoints for **create**, **update**, **delete** (CR
 ## eBook-Shelf Screenshots
 
 ### Screenshot
-<p float="left">
 ![Ebook Shelf](https://github.com/user-attachments/assets/d96c10f0-d8b2-4650-8f44-dadafa9c462d)
-</p>
 
 ### Screecast
-<p float="left">
 https://github.com/user-attachments/assets/332c4ef2-cc42-486e-a04d-d892ab84dc27
-</p>
 
 
 ## ✉️ Contact
+
+<div align="left">
+    <p><a href="https://github.com/sufyanism"><img alt="GitHub @Sufyan bin Uzayr
+" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> Explore, learn, and contribute to open-source projects. </small></p>
+   
+    <p><a href="https://www.youtube.com/@zeba.academy"><img alt="YouTube zeba.academy" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorB=ff0000&style=flat" /></a>&nbsp;<small><strong>(subscribe)</strong> GitHub projects made simple and fun. </small></p>
+    <p><a href="https://zeba.academy/"><img alt="Blog: AhmadAwais.com" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&style=flat" /></a>&nbsp;<small><strong>(read)</strong> Tech knowledge, decoded and detailed   </small></p>
+    <p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile y'all</small></p>
+</div>
+
+
 If you have questions, suggestions, or want to collaborate, feel free to open an issue or reach out via GitHub profile.
+
+
 
 ---
