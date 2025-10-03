@@ -1,54 +1,146 @@
-Here’s step-by-step modified version of  setup instructions for the ebook shelf project using Vite + React:
+# eBook‑Shelf
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+A simple bookshelf web app that lists eBooks, built with React (Vite) for the frontend and Express.js for the backend API.
 
-# Project Setup Instructions
-`mkdir ebook-shelf` <br/> 
-`cd ebook-shelf`
+---
 
-## Initialize a new Vite project
-`npm create vite@latest .  `
+## 🧭 Table of Contents
 
-## Choose project options when prompted:
-`Framework → React` <br/>
-`Variant → JavaScript`
+1. [About](#about)  
+2. [Features](#features)  
+3. [Tech Stack](#tech-stack)  
+4. [Getting Started](#getting-started)  
+   1. [Prerequisites](#prerequisites)  
+   2. [Setup & Run](#setup--run)  
+5. [Project Structure](#project-structure)  
+6. [API Endpoints](#api-endpoints)  
+7. [Contributing](#contributing)  
+8. [License](#license)  
+9. [Contact](#contact)
 
-## Install dependencies
-`npm install`
+---
 
-## Install React Router DOM
-`npm install react-router-dom`
+## 📝 About
 
-### Start the development server
-`npm run dev`
+eBook‑Shelf is a minimal web application for showcasing a collection of eBooks. The frontend is built using React (via Vite), and it fetches data from a backend API powered by Express.js. The goal is to have a clean separation between client and server, making it easier to extend (e.g. add CRUD, authentication, etc.).
 
+---
 
-# Backend server (Express.js) to your React (Vite) project. Here’s a step-by-step guide for setting up Express alongside your React frontend:
+## ✨ Features
 
-## Create a backend folder
-Inside your project (ebook-shelf), create a folder for backend:
-`mkdir backend`
-`cd backend`
+- Display a list of books with title, author, and (optionally) other metadata  
+- Basic API endpoint(s) to fetch book data  
+- CORS enabled for cross-origin requests  
+- React-based UI for easy expansion  
+- Modular architecture (frontend + backend separation)  
 
-## Initialize backend project
-`npm init -y`
+---
 
-## Install Express and Nodemon
-`npm install express cors`
-`npm install --save-dev nodemon`
+## 🛠 Tech Stack
 
-## Update package.json
-In the backend/package.json, add a dev script:
-"scripts": {
-  "start": "node server.js",
-  "dev": "nodemon server.js"
-}
+| Layer          | Technology / Library        |
+|----------------|------------------------------|
+| Frontend       | React, Vite                  |
+| Routing        | React Router DOM             |
+| Backend        | Express.js, Node.js          |
+| Utilities      | CORS, JSON parsing            |
 
-## Now you can run:
-`npm run dev`
+---
 
-## Screencast
-https://github.com/user-attachments/assets/31e0dd89-0c80-4708-bc54-f19fc7e0d217
+## 🚀 Getting Started
 
-## Screenshot
-![Ebook Shelf](https://github.com/user-attachments/assets/33a7a333-b7cd-4833-a52a-f5794a9e1192)
+### Prerequisites
 
+You should have the following installed on your machine:
+
+- Node.js (v14+ recommended)  
+- npm (comes with Node.js)  
+- (Optionally) `yarn`, if you prefer it over npm  
+
+### Setup & Run
+
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/sufyanism/eBook-Shelf.git
+   cd eBook-Shelf
+   ```
+
+2. Setup the **backend**  
+   ```bash
+   cd src/backend
+   npm install
+   npm run dev
+   ```
+   This will start the Express server (e.g. on `http://localhost:5000`).
+
+3. Setup the **frontend**  
+   In a separate terminal:
+   ```bash
+   cd src/frontend
+   npm install
+   npm run dev
+   ```
+   This will run the React app (e.g. on `http://localhost:5173` or some similar port).
+
+4. Open your browser to the React app’s URL. The frontend should fetch data from the backend and display the list of eBooks.
+
+---
+
+## 🗂 Project Structure
+
+```
+eBook-Shelf/
+├── src/
+│   ├── backend/           # Express server code
+│   │   ├── server.js       # Entry point for backend
+│   │   └── …               # Other backend modules, routes, etc.
+│   └── frontend/          # React (Vite) application
+│       ├── src/            # React components, pages, etc.
+│       └── …               
+├── README.md
+└── LICENSE
+```
+
+You can extend this structure over time (e.g. adding `routes/`, `controllers/`, `models/`, etc. in backend; `components/`, `pages/`, `services/` in frontend).
+
+---
+
+## 🔌 API Endpoints
+
+Here are some of the key backend endpoints:
+
+| Method | Path            | Description                          |
+|--------|------------------|--------------------------------------|
+| GET    | `/api/books`     | Fetches the list of all books        |
+| GET    | `/`              | Basic health check (returns a message) |
+
+You can further expand with endpoints for **create**, **update**, **delete** (CRUD) as needed, e.g. `POST /api/books`, `PUT /api/books/:id`, etc.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Here’s how you can help:
+
+1. Fork this repository  
+2. Create a new branch: `git checkout -b feature/YourFeature`  
+3. Make your changes & commit with descriptive messages  
+4. Push your branch and open a Pull Request  
+5. I’ll review and give feedback; once approved, it can be merged  
+
+Please ensure your code is clean, with comments when needed, and that you test your changes.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+
+---
+
+## ✉️ Contact
+
+If you have questions, suggestions, or want to collaborate, feel free to open an issue or reach out via GitHub profile.
+
+---
