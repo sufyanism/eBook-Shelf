@@ -132,9 +132,6 @@ https://github.com/user-attachments/assets/332c4ef2-cc42-486e-a04d-d892ab84dc27
     <p><a href="https://github.com/sufyanism"><img alt="GitHub @Sufyan bin Uzayr
 " align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> Explore, learn, and contribute to open-source projects. </small></p>
    
-    <p><a href="https://www.youtube.com/@zeba.academy"><img alt="YouTube zeba.academy" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorB=ff0000&style=flat" /></a>&nbsp;<small><strong>(subscribe)</strong> GitHub projects made simple and fun. </small></p>
-    <p><a href="https://zeba.academy/"><img alt="Blog: AhmadAwais.com" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&style=flat" /></a>&nbsp;<small><strong>(read)</strong> Tech knowledge, decoded and detailed   </small></p>
-    <p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile y'all</small></p>
 </div>
 
 
