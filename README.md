@@ -42,7 +42,6 @@ eBook‑Shelf is a minimal web application for showcasing a collection of eBooks
 | Frontend       | React, Vite                  |
 | Routing        | React Router DOM             |
 | Backend        | Express.js, Node.js          |
-| Utilities      | CORS, JSON parsing            |
 
 ---
 
@@ -132,11 +131,10 @@ Here are some of the key backend endpoints:
 
 | Method | Path            | Description                          |
 |--------|------------------|--------------------------------------|
-| GET    | `/api/books`     | Fetches the list of all books        |
 | GET    | `/`              | Basic health check (returns a message) |
 
-You can further expand with endpoints for **create**, **update**, **delete** (CRUD) as needed, e.g. `POST /api/books`, `PUT /api/books/:id`, etc.
-
+You can further expand with endpoints for **create**, **update**, **delete** (CRUD) as needed, e.g. `POST /api/books`, `PUT /api/books/:id`, etc. 
+➡ ![htttp://localhost:5173](htttp://localhost:5173)
 
 
 ## eBook-Shelf Screenshots
