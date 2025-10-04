@@ -129,6 +129,8 @@ eBook-Shelf/
 
 You can extend this structure over time (e.g. adding `routes/`, `controllers/`, `models/`, etc. in backend; `components/`, `pages/`, `services/` in frontend).
 
+---
+
 ## 🔌 API Endpoints
 
 Here are some of the key backend endpoints:
@@ -140,6 +142,7 @@ Here are some of the key backend endpoints:
 You can further expand with endpoints for **create**, **update**, **delete** (CRUD) as needed, e.g. `POST /api/books`, `PUT /api/books/:id`, etc. 
 
 
+---
 
 ## eBook-Shelf Screenshots
 
@@ -150,7 +153,7 @@ You can further expand with endpoints for **create**, **update**, **delete** (CR
 https://github.com/user-attachments/assets/332c4ef2-cc42-486e-a04d-d892ab84dc27
 
 
-
+--- 
 ## ✉️ Get in Touch
 Feel free to connect with me on social media or reach out via my website. Let’s build something great together!
 <p>
@@ -189,7 +192,7 @@ Feel free to connect with me on social media or reach out via my website. Let’
 </br>
 <div style="margin-top:20px;"></div> <!-- adds space above -->
 
-## ✨ About Me
+## About Me ✨
 I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
 You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/)
 
