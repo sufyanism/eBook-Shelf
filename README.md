@@ -106,6 +106,8 @@ This will allow you to preview your project in your browser and launch it locall
 
 4. Open your browser to the React app’s URL. The frontend should fetch data from the backend and display the list of eBooks.
 
+5. ➡ [Local Development Server](http://localhost:5173)
+
 ---
 
 ## 🗂 Project Structure
@@ -134,7 +136,7 @@ Here are some of the key backend endpoints:
 | GET    | `/`              | Basic health check (returns a message) |
 
 You can further expand with endpoints for **create**, **update**, **delete** (CRUD) as needed, e.g. `POST /api/books`, `PUT /api/books/:id`, etc. 
-➡ [Local Development Server](http://localhost:5173)
+
 
 
 ## eBook-Shelf Screenshots
