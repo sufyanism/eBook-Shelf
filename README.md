@@ -1,9 +1,10 @@
 # eBook‑Shelf
 A simple bookshelf web app that lists eBooks, built with React (Vite) for the frontend and Express.js for the backend API.
 
+</br>
+<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ##  Table of Contents
-🧭
 1. [About](#about)  
 2. [Features](#features)  
 3. [Tech Stack](#tech-stack)  
@@ -17,40 +18,46 @@ A simple bookshelf web app that lists eBooks, built with React (Vite) for the fr
 9. [About](#about-me)
 10. [Learning Hub](#your-all-in-one-learning-hub)
 
-
+</br>
+<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ## About
-📝 eBook‑Shelf is a minimal web application for showcasing a collection of eBooks. The frontend is built using React (via Vite), and it fetches data from a backend API powered by Express.js. The goal is to have a clean separation between client and server, making it easier to extend (e.g. add CRUD, authentication, etc.).
+eBook‑Shelf is a minimal web application for showcasing a collection of eBooks. The frontend is built using React (via Vite), and it fetches data from a backend API powered by Express.js. The goal is to have a clean separation between client and server, making it easier to extend (e.g. add CRUD, authentication, etc.).
 
+</br>
+<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ## Features
+✨ Display a list of books with title, author, and (optionally) other metadata  
+✨ Basic API endpoint(s) to fetch book data  
+✨ CORS enabled for cross-origin requests  
+✨ React-based UI for easy expansion  
+✨ Modular architecture (frontend + backend separation)  
 
--✨ Display a list of books with title, author, and (optionally) other metadata  
--✨ Basic API endpoint(s) to fetch book data  
--✨ CORS enabled for cross-origin requests  
--✨ React-based UI for easy expansion  
--✨ Modular architecture (frontend + backend separation)  
-
+</br>
+<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ##  Tech Stack
 
-| Layer  🛠      | Technology / Library        |
+| Layer          | Technology / Library        |
 |----------------|------------------------------|
 | Frontend       | React, Vite                  |
 | Routing        | React Router DOM             |
 | Backend        | Express.js, Node.js          |
 
-
+</br>
+<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ##  Getting Started
-
 ### Prerequisites
-
-🚀 You should have the following installed on your machine:
+You should have the following installed on your machine:
 
 - Node.js (v14+ recommended)  
 - npm (comes with Node.js)  
 - (Optionally) `yarn`, if you prefer it over npm  
+
+</br>
+<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ### Setup & Run
 
@@ -83,7 +90,6 @@ Finally, start the development server with:
 
 This will allow you to preview your project in your browser and launch it locally.
 
-
 2. Setup the **backend**  
    ```bash
    cd src/backend
@@ -111,7 +117,7 @@ This will allow you to preview your project in your browser and launch it locall
 ##  Project Structure
 
 ```
-🗂 eBook-Shelf/
+eBook-Shelf/
 ├── src/
 │   ├── backend/           # Express server code
 │   │   ├── server.js       # Entry point for backend
@@ -122,7 +128,6 @@ This will allow you to preview your project in your browser and launch it locall
 ├── README.md
 └── LICENSE
 ```
-
 You can extend this structure over time (e.g. adding `routes/`, `controllers/`, `models/`, etc. in backend; `components/`, `pages/`, `services/` in frontend).
 
 </br>
@@ -132,9 +137,9 @@ You can extend this structure over time (e.g. adding `routes/`, `controllers/`, 
 
 Here are some of the key backend endpoints:
 
-🔌  | Method | Path            | Description                          |
-    |--------|------------------|--------------------------------------|
-    | GET    | `/`              | Basic health check (returns a message) |
+| Method | Path            | Description                          |
+|--------|------------------|--------------------------------------|
+| GET    | `/`              | Basic health check (returns a message) |
 
 You can further expand with endpoints for **create**, **update**, **delete** (CRUD) as needed, e.g. `POST /api/books`, `PUT /api/books/:id`, etc. 
 
