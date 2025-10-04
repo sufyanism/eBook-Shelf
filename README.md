@@ -146,13 +146,13 @@ You can further expand with endpoints for **create**, **update**, **delete** (CR
 <div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ## eBook-Shelf Screenshots
-📷 
+📷  
 ![Ebook Shelf](https://github.com/user-attachments/assets/d96c10f0-d8b2-4650-8f44-dadafa9c462d)
 
-</br>
+<br><br> <!-- Adds extra space -->
 
-🎥 
-https://github.com/user-attachments/assets/332c4ef2-cc42-486e-a04d-d892ab84dc27
+📹  
+[Video Link](https://github.com/user-attachments/assets/6e0a6fa2-a5a5-4592-b4e9-ca8680c375a8)
 
 </br>
 <div style="margin-top:20px;"></div> <!-- adds space above -->
@@ -160,8 +160,7 @@ https://github.com/user-attachments/assets/332c4ef2-cc42-486e-a04d-d892ab84dc27
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
-You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on  
-<a href="https://www.linkedin.com/in/sufyanism/"> <img alt="Linkedin" align="center" src="https://img.icons8.com/material-outlined/22/000000/linkedin.png" /></a> &nbsp  [Sufyanism](https://www.linkedin.com/in/sufyanism/).
+You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on <a href="https://www.linkedin.com/in/sufyanism/"> <img alt="Linkedin" align="center" src="https://img.icons8.com/material-outlined/22/000000/linkedin.png" /></a> &nbsp;  [Sufyanism](https://www.linkedin.com/in/sufyanism/).
 
 </br>
 
@@ -172,16 +171,15 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 <div style="margin-top:10px;"></div> <!-- adds space above -->
 
 **Zeba Academy**  is a learning platform dedicated to **coding**, **technology**, and **development**.  
-➡ Visit our main site: **[zeba.academy](https://zeba.academy)** 
+➡ Visit our main site: &nbsp; **[Zeba Academy](https://zeba.academy)** 
 </br>
-➡ Explore hands-on courses and resources at: **[code.zeba.academy](https://code.zeba.academy)** </br>
-➡ Check out our  <a href="https://www.instagram.com/zeba.academy/">
-  <img alt="Youtube" align="center" src="https://img.icons8.com/material-outlined/22/000000/youtube.png" />
-  </a> channel for more tutorials: &nbsp  [Zeba Academy](https://www.youtube.com/@zeba.academy) 
-  </br>
-➡ Follow us on  <a href="https://www.instagram.com/zeba.academy/">
-   <img alt="Instagram" align="center" src="https://img.icons8.com/material-outlined/22/000000/instagram.png" />
-  </a>: &nbsp  [Zeba Academy](https://www.instagram.com/zeba.academy/) </br>
+➡ Explore hands-on courses and resources at: &nbsp; **[Code.zeba.academy](https://code.zeba.academy)** 
+</br>
+➡ Check out our  <a href="https://www.instagram.com/zeba.academy/"> <img alt="Youtube" align="center" src="https://img.icons8.com/material-outlined/22/000000/youtube.png" />
+</a> channel for more tutorials: &nbsp;  [Zeba Academy](https://www.youtube.com/@zeba.academy) 
+</br>
+➡ Follow us on  <a href="https://www.instagram.com/zeba.academy/"> <img alt="Instagram" align="center" src="https://img.icons8.com/material-outlined/22/000000/instagram.png" />
+</a>: &nbsp;  [Zeba Academy](https://www.instagram.com/zeba.academy/) </br>
 
    
 </br>
