@@ -169,10 +169,6 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 </br>
 <div style="margin-top:10px;"></div> <!-- adds space above -->
 
-
-https://github.com/user-attachments/assets/72fa4418-3c33-41f8-9e4a-16ce6214a6cd
-
-
 **Zeba Academy**  is a learning platform dedicated to **coding**, **technology**, and **development**.  
 ➡ Visit our main site: &nbsp; **[Zeba Academy](https://zeba.academy)** 
 </br>
@@ -184,7 +180,6 @@ https://github.com/user-attachments/assets/72fa4418-3c33-41f8-9e4a-16ce6214a6cd
 ➡ Follow us on  <a href="https://www.instagram.com/zeba.academy/"> <img alt="Instagram" align="center" src="https://img.icons8.com/material-outlined/22/000000/instagram.png" />
 </a>: &nbsp;  [Zeba Academy](https://www.instagram.com/zeba.academy/) </br>
 
-   
 </br>
 <div style="margin-top:30px;"></div> <!-- adds space above -->
 
