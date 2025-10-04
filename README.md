@@ -171,9 +171,9 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 
 **Zeba Academy**  is a learning platform dedicated to **coding**, **technology**, and **development**.  
 ➡ Visit our main site: [zeba.academy](https://zeba.academy)   </br>
-➡ Explore hands-on courses and resources at:[code.zeba.academy](https://code.zeba.academy)   </br>
-➡ Check out our YouTube for more tutorials:[zeba.academy](https://www.youtube.com/@zeba.academy)  </br>
-➡ Follow us on Instagram:[zeba.academy](https://www.instagram.com/zeba.academy/)  </br>
+➡ Explore hands-on courses and resources at: [code.zeba.academy](https://code.zeba.academy)   </br>
+➡ Check out our YouTube for more tutorials: [zeba.academy](https://www.youtube.com/@zeba.academy)  </br>
+➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  </br>
 
 
 </br>
