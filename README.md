@@ -19,13 +19,11 @@ A simple bookshelf web app that lists eBooks, built with React (Vite) for the fr
 10. [Learning Hub](#your-all-in-one-learning-hub)
 
 
----
 
 ## 📝 About
 
 eBook‑Shelf is a minimal web application for showcasing a collection of eBooks. The frontend is built using React (via Vite), and it fetches data from a backend API powered by Express.js. The goal is to have a clean separation between client and server, making it easier to extend (e.g. add CRUD, authentication, etc.).
 
----
 
 ## ✨ Features
 
@@ -35,7 +33,6 @@ eBook‑Shelf is a minimal web application for showcasing a collection of eBooks
 - React-based UI for easy expansion  
 - Modular architecture (frontend + backend separation)  
 
----
 
 ## 🛠 Tech Stack
 
@@ -45,7 +42,7 @@ eBook‑Shelf is a minimal web application for showcasing a collection of eBooks
 | Routing        | React Router DOM             |
 | Backend        | Express.js, Node.js          |
 
----
+
 
 ## 🚀 Getting Started
 
@@ -110,7 +107,8 @@ This will allow you to preview your project in your browser and launch it locall
 
 5. ➡ [Local Development Server](http://localhost:5173)
 
----
+</br>
+<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ## 🗂 Project Structure
 
@@ -129,7 +127,8 @@ eBook-Shelf/
 
 You can extend this structure over time (e.g. adding `routes/`, `controllers/`, `models/`, etc. in backend; `components/`, `pages/`, `services/` in frontend).
 
----
+</br>
+<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ## 🔌 API Endpoints
 
@@ -141,8 +140,8 @@ Here are some of the key backend endpoints:
 
 You can further expand with endpoints for **create**, **update**, **delete** (CRUD) as needed, e.g. `POST /api/books`, `PUT /api/books/:id`, etc. 
 
-
----
+</br>
+<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ## eBook-Shelf Screenshots
 
@@ -152,8 +151,9 @@ You can further expand with endpoints for **create**, **update**, **delete** (CR
 ### Screecast
 https://github.com/user-attachments/assets/332c4ef2-cc42-486e-a04d-d892ab84dc27
 
+</br>
+<div style="margin-top:20px;"></div> <!-- adds space above -->
 
---- 
 ## ✉️ Get in Touch
 Feel free to connect with me on social media or reach out via my website. Let’s build something great together!
 <p>
