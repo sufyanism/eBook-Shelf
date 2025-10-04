@@ -62,7 +62,31 @@ You should have the following installed on your machine:
    ```bash
    git clone https://github.com/sufyanism/eBook-Shelf.git
    cd eBook-Shelf
+
+   Next, initialize a Vite project by typing:
+   npm create vite
    ```
+If manually then follow these steps,
+
+First, make an ebook shelf folder on your computer.  All of the files for your project will be kept in this folder.
+Proceed to the ebook shelf folder by opening the terminal.
+Next, type the following to start a Vite project:
+
+```npm create vite```
+
+We want to use the current folder, so use a dot when asked for the project name.
+After that, you'll be prompted to choose libraries.  Select the React router dom for this tutorial.
+1. Next, choose the framework.  Select React.
+2. Next, choose the language.  Select JavaScript.
+
+After creating the project files, type the following to install all dependencies:
+
+Installing NPM
+Finally, start the development server with:
+```npm run dev```
+
+This will allow you to preview your project in your browser and launch it locally.
+
 
 2. Setup the **backend**  
    ```bash
