@@ -1,10 +1,9 @@
 # eBook‑Shelf
 A simple bookshelf web app that lists eBooks, built with React (Vite) for the frontend and Express.js for the backend API.
 
----
 
-## 🧭 Table of Contents
-
+##  Table of Contents
+🧭
 1. [About](#about)  
 2. [Features](#features)  
 3. [Tech Stack](#tech-stack)  
@@ -20,13 +19,13 @@ A simple bookshelf web app that lists eBooks, built with React (Vite) for the fr
 
 
 
-## 📝 About
-
+## About
+📝
 eBook‑Shelf is a minimal web application for showcasing a collection of eBooks. The frontend is built using React (via Vite), and it fetches data from a backend API powered by Express.js. The goal is to have a clean separation between client and server, making it easier to extend (e.g. add CRUD, authentication, etc.).
 
 
-## ✨ Features
-
+## Features
+✨
 - Display a list of books with title, author, and (optionally) other metadata  
 - Basic API endpoint(s) to fetch book data  
 - CORS enabled for cross-origin requests  
@@ -44,11 +43,11 @@ eBook‑Shelf is a minimal web application for showcasing a collection of eBooks
 
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
-You should have the following installed on your machine:
+🚀 You should have the following installed on your machine:
 
 - Node.js (v14+ recommended)  
 - npm (comes with Node.js)  
@@ -110,10 +109,10 @@ This will allow you to preview your project in your browser and launch it locall
 </br>
 <div style="margin-top:20px;"></div> <!-- adds space above -->
 
-## 🗂 Project Structure
+##  Project Structure
 
 ```
-eBook-Shelf/
+🗂 eBook-Shelf/
 ├── src/
 │   ├── backend/           # Express server code
 │   │   ├── server.js       # Entry point for backend
@@ -130,13 +129,13 @@ You can extend this structure over time (e.g. adding `routes/`, `controllers/`, 
 </br>
 <div style="margin-top:20px;"></div> <!-- adds space above -->
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 Here are some of the key backend endpoints:
 
-| Method | Path            | Description                          |
-|--------|------------------|--------------------------------------|
-| GET    | `/`              | Basic health check (returns a message) |
+🔌  | Method | Path            | Description                          |
+    |--------|------------------|--------------------------------------|
+    | GET    | `/`              | Basic health check (returns a message) |
 
 You can further expand with endpoints for **create**, **update**, **delete** (CRUD) as needed, e.g. `POST /api/books`, `PUT /api/books/:id`, etc. 
 
@@ -154,8 +153,8 @@ https://github.com/user-attachments/assets/332c4ef2-cc42-486e-a04d-d892ab84dc27
 </br>
 <div style="margin-top:20px;"></div> <!-- adds space above -->
 
-## ✉️ Get in Touch
-Feel free to connect with me on social media or reach out via my website. Let’s build something great together!
+##  Get in Touch
+✉️ Feel free to connect with me on social media or reach out via my website. Let’s build something great together!
 <p>
   <a href="https://github.com/sufyanism">
     <img alt="GitHub @Sufyanism" align="center" src="https://img.icons8.com/material-outlined/24/000000/github.png" />
@@ -192,14 +191,14 @@ Feel free to connect with me on social media or reach out via my website. Let’
 </br>
 <div style="margin-top:20px;"></div> <!-- adds space above -->
 
-## About Me ✨
-I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
+## About Me 
+✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
 You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/)
 
 </br>
 
-## Your all-in-one learning hub! 🚀
-Explore courses and resources in coding, tech, and development at **zeba.academy** and **code.zeba.academy**. Empower yourself with practical skills through curated tutorials, real-world projects, and hands-on experience. Level up your tech game today! 💻✨
+## Your all-in-one learning hub! 
+🚀 Explore courses and resources in coding, tech, and development at **zeba.academy** and **code.zeba.academy**. Empower yourself with practical skills through curated tutorials, real-world projects, and hands-on experience. Level up your tech game today! 💻✨
 
 </br>
 <div style="margin-top:10px;"></div> <!-- adds space above -->
