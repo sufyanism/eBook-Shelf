@@ -159,7 +159,7 @@ https://github.com/user-attachments/assets/227e48d0-28d0-4373-88bf-07629fa20efd
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
-You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin]([https://sufyanism.com/](https://www.linkedin.com/in/sufyanism))
+You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin](https://www.linkedin.com/in/sufyanism)
 
 </br>
 
