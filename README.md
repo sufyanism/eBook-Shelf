@@ -171,14 +171,14 @@ https://github.com/user-attachments/assets/332c4ef2-cc42-486e-a04d-d892ab84dc27
   <a href="https://www.youtube.com/@zeba.academy">
     <img alt="YouTube" align="center" src="https://img.icons8.com/material-outlined/24/000000/youtube.png" />
   </a>&nbsp;
-  <small><strong> <img alt="Youtube @zeba.academy" align="center" src="https://img.shields.io/badge/Subscribe-blue" />
+  <small><strong> <img alt="Youtube @zeba.academy" align="center" src="https://img.shields.io/badge/Subscribe-red" />
   </strong> Watch videos for insights and tutorials.</small>
 </p>
 <p>
   <a href="https://code.zeba.academy/">
     <img alt="Site" align="center" src="https://img.icons8.com/material-outlined/24/000000/blog.png" />
   </a>&nbsp;
-  <small><strong><img alt="Blog @Code.zeba.academy" align="center" src="https://img.shields.io/badge/Read-blue" /></strong> Explore in-depth technical articles</small>
+  <small><strong><img alt="Blog @Code.zeba.academy" align="center" src="https://img.shields.io/badge/Read-white" /></strong> Explore in-depth technical articles</small>
 </p>
 <p>
   <a href="https://www.linkedin.com/company/parakozm">
@@ -191,7 +191,7 @@ https://github.com/user-attachments/assets/332c4ef2-cc42-486e-a04d-d892ab84dc27
   <a href="https://www.instagram.com/zeba.academy/">
     <img alt="Instagram" align="center" src="https://img.icons8.com/material-outlined/24/000000/instagram.png" />
   </a>&nbsp;
-  <small><strong> <strong> <img alt="Instagram @zeba.academy" align="center" src="https://img.shields.io/badge/Follow_Us-blue" />
+  <small><strong> <strong> <img alt="Instagram @zeba.academy" align="center" src="https://img.shields.io/badge/Follow_Us-red" />
   </strong> </strong> Follow my Instagram for updates and insights</small>
 </p>
 
