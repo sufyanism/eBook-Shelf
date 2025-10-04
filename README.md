@@ -153,9 +153,16 @@ You can further expand with endpoints for **create**, **update**, **delete** (CR
 <br><!-- Adds extra space -->
 
 📹
-https://github.com/user-attachments/assets/da951f4c-0fbe-4b03-8506-65db737dab8b
 
-</br>
+
+## eBook-Shelf Screenshots
+
+📷  
+![Ebook Shelf](https://github.com/user-attachments/assets/d96c10f0-d8b2-4650-8f44-dadafa9c462d)
+
+
+📹 : [Watch the Demo Video](https://github.com/user-attachments/assets/6e0a6fa2-a5a5-4592-b4e9-ca8680c375a8)
+
 <div style="margin-top:20px;"></div> <!-- adds space above -->
 
 
@@ -170,6 +177,10 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 
 </br>
 <div style="margin-top:10px;"></div> <!-- adds space above -->
+
+
+https://github.com/user-attachments/assets/72fa4418-3c33-41f8-9e4a-16ce6214a6cd
+
 
 **Zeba Academy**  is a learning platform dedicated to **coding**, **technology**, and **development**.  
 ➡ Visit our main site: &nbsp; **[Zeba Academy](https://zeba.academy)** 
