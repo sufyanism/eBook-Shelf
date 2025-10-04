@@ -3,7 +3,6 @@
 This is the **frontend application** for the [eBook-Shelf](https://github.com/sufyanism/eBook-Shelf) project.  
 It is built using **React + Vite** and communicates with the backend (Express.js API) to display and manage eBooks.
 
----
 
 ## ✨ Features
 
@@ -13,7 +12,6 @@ It is built using **React + Vite** and communicates with the backend (Express.js
 - 🎨 Simple, modular component structure for easy extension  
 - 🔗 Connects seamlessly with the backend API  
 
----
 
 ## 🛠 Tech Stack
 
@@ -24,7 +22,6 @@ It is built using **React + Vite** and communicates with the backend (Express.js
 | Styling   | CSS / Tailwind (optional) |
 | API Calls | Fetch API / Axios     |
 
----
 
 ## 🚀 Getting Started
 
@@ -54,7 +51,6 @@ It is built using **React + Vite** and communicates with the backend (Express.js
 
 ⚡ Make sure the backend server is running (default: `http://localhost:5000`) so the frontend can fetch data.
 
----
 
 ## 📂 Project Structure
 
@@ -71,59 +67,10 @@ frontend/
 └── vite.config.js       # Vite configuration
 ```
 
----
 
 ## 🔗 API Connection
 
 The frontend expects a backend server running at:  
-
 - `GET http://localhost:5000/api/books` → Fetches list of books  
-
 You can update API URLs in a service file (e.g., `src/services/api.js`) if needed.
 
----
-
-## 🧩 Example Usage
-
-```jsx
-import { useEffect, useState } from "react";
-
-function Books() {
-  const [books, setBooks] = useState([]);
-
-  useEffect(() => {
-    fetch("http://localhost:5000/api/books")
-      .then((res) => res.json())
-      .then((data) => setBooks(data));
-  }, []);
-
-  return (
-    <div>
-      <h2>📚 Book List</h2>
-      <ul>
-        {books.map((book) => (
-          <li key={book.id}>{book.title} — {book.author}</li>
-        ))}
-      </ul>
-    </div>
-  );
-}
-
-export default Books;
-```
-
----
-
-## 🤝 Contributing
-
-1. Fork this repo  
-2. Create a new branch (`feature/your-feature`)  
-3. Commit changes and push  
-4. Open a Pull Request  
-
----
-
-## 📜 License
-
-This frontend is licensed under the same license as the main project (MIT).  
-See the [LICENSE](../../LICENSE) file in the root for details.
