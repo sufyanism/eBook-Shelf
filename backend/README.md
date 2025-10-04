@@ -2,8 +2,6 @@
 
 This is the backend (server / API) for the **eBook‑Shelf** project. It is built using **Express.js** and provides endpoints to be consumed by the frontend client.
 
----
-
 ## 📦 Features & Responsibilities
 
 - HTTP API to fetch (and later: create, update, delete) book data  
@@ -11,8 +9,6 @@ This is the backend (server / API) for the **eBook‑Shelf** project. It is buil
 - CORS enabled to allow client requests  
 - Express server with modular routing (you can expand)  
 - Basic health check / root route  
-
----
 
 ## 🧱 Structure
 
@@ -100,23 +96,6 @@ When expanded, you might have:
 
 6. It should now be listening (by default) on `http://localhost:5000/` or your configured port.
 
----
-
-## 📡 API Endpoints (Current / Example)
-
-| Method | Route           | Description                         |
-|--------|------------------|-------------------------------------|
-| GET    | `/`              | Health check / root message          |
-| GET    | `/api/books`     | Returns JSON list of all books       |
-
-You can extend to:
-
-- **POST** `/api/books` – add a new book  
-- **GET** `/api/books/:id` – fetch a single book by ID  
-- **PUT** `/api/books/:id` – update a book  
-- **DELETE** `/api/books/:id` – remove a book  
-
----
 
 ## 🛠️ Environment & Configuration
 
@@ -127,29 +106,5 @@ You can extend to:
 
 - If you integrate a database (MongoDB, PostgreSQL, etc.), that logic could live in `models/` or `db/` folder.
 
----
 
-## ✅ Testing & Validation (Optional)
 
-- For route tests, you can use tools like **Jest**, **Mocha**, **Supertest**  
-- Validate input in routes using **Joi** or **express-validator**  
-- Use middleware to handle errors and standardize error responses  
-
----
-
-## 🤝 Contributing
-
-If you’d like to enhance the backend:
-
-1. Fork the repo  
-2. Create a branch: `feature/{your-feature}`  
-3. Make changes, test, document  
-4. Open a pull request  
-
-Consider adding unit tests, integration tests, or more CRUD endpoints.
-
----
-
-## 📝 License
-
-This backend is covered under the same license as the main project (MIT).  
