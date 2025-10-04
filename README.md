@@ -170,15 +170,11 @@ You can learn more about me and my work at [Sufyanism](https://sufyanism.com/) o
 <div style="margin-top:10px;"></div> <!-- adds space above -->
 
 **Zeba Academy**  is a learning platform dedicated to **coding**, **technology**, and **development**.  
-➡ Visit our main site: &nbsp; **[Zeba Academy](https://zeba.academy)** 
-</br>
-➡ Explore hands-on courses and resources at: &nbsp; **[Code Zeba Academy](https://code.zeba.academy)** 
-</br>
-➡ Check out our  <a href="https://www.instagram.com/zeba.academy/"> <img alt="Youtube" align="center" src="https://img.icons8.com/material-outlined/22/000000/youtube.png" />
-</a> for more tutorials: &nbsp;  [Zeba Academy](https://www.youtube.com/@zeba.academy) 
-</br>
-➡ Follow us on  <a href="https://www.instagram.com/zeba.academy/"> <img alt="Instagram" align="center" src="https://img.icons8.com/material-outlined/22/000000/instagram.png" />
-</a>: &nbsp;  [Zeba Academy](https://www.instagram.com/zeba.academy/) </br>
+➡ Visit our main site:  &nbsp; [Zeba Academy](https://zeba.academy)   </br>
+➡ Explore hands-on courses and resources at: &nbsp; [Code Zeba Academy](https://code.zeba.academy)   </br>
+➡ Check out our <a href="https://www.instagram.com/zeba.academy/"> <img alt="Youtube" align="center" src="https://img.icons8.com/material-outlined/22/000000/youtube.png" /> </a> for more tutorials: &nbsp;  [Zeba Academy](https://www.youtube.com/@zeba.academy)  </br>
+➡ Follow us on <a href="https://www.instagram.com/zeba.academy/"> <img alt="Instagram" align="center" src="https://img.icons8.com/material-outlined/22/000000/instagram.png" /> </a>: &nbsp;  [Zeba Academy](https://www.instagram.com/zeba.academy/)  </br>
+
 
 </br>
 <div style="margin-top:30px;"></div> <!-- adds space above -->
