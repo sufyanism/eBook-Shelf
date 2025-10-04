@@ -20,22 +20,21 @@ A simple bookshelf web app that lists eBooks, built with React (Vite) for the fr
 
 
 ## About
-📝
-eBook‑Shelf is a minimal web application for showcasing a collection of eBooks. The frontend is built using React (via Vite), and it fetches data from a backend API powered by Express.js. The goal is to have a clean separation between client and server, making it easier to extend (e.g. add CRUD, authentication, etc.).
+📝 eBook‑Shelf is a minimal web application for showcasing a collection of eBooks. The frontend is built using React (via Vite), and it fetches data from a backend API powered by Express.js. The goal is to have a clean separation between client and server, making it easier to extend (e.g. add CRUD, authentication, etc.).
 
 
 ## Features
-✨
-- Display a list of books with title, author, and (optionally) other metadata  
-- Basic API endpoint(s) to fetch book data  
-- CORS enabled for cross-origin requests  
-- React-based UI for easy expansion  
-- Modular architecture (frontend + backend separation)  
+
+-✨ Display a list of books with title, author, and (optionally) other metadata  
+-✨ Basic API endpoint(s) to fetch book data  
+-✨ CORS enabled for cross-origin requests  
+-✨ React-based UI for easy expansion  
+-✨ Modular architecture (frontend + backend separation)  
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-| Layer          | Technology / Library        |
+| Layer  🛠      | Technology / Library        |
 |----------------|------------------------------|
 | Frontend       | React, Vite                  |
 | Routing        | React Router DOM             |
