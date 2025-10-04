@@ -14,9 +14,8 @@ A simple bookshelf web app that lists eBooks, built with React (Vite) for the fr
 5. [Project Structure](#project-structure)  
 6. [API Endpoints](#api-endpoints)  
 7. [eBook-Shelf Screenshots](#ebook-shelf-screenshots)  
-8. [Get in Touch](#get-in-touch)  
-9. [About](#about-me)
-10. [Learning Hub](#your-all-in-one-learning-hub)
+8. [About](#about-me)
+9. [Learning Hub](#your-all-in-one-learning-hub)
 
 </br>
 <div style="margin-top:20px;"></div> <!-- adds space above -->
@@ -157,50 +156,10 @@ https://github.com/user-attachments/assets/332c4ef2-cc42-486e-a04d-d892ab84dc27
 </br>
 <div style="margin-top:20px;"></div> <!-- adds space above -->
 
-##  Get in Touch
-✉️ Feel free to connect with me on social media or reach out via my website. Let’s build something great together!
-<p>
-  <a href="https://github.com/sufyanism">
-    <img alt="GitHub @Sufyanism" align="center" src="https://img.icons8.com/material-outlined/24/000000/github.png" />
-  </a>&nbsp;
-  <small><strong>     
-     <img alt="GitHub @Sufyanism" align="center" src="https://img.shields.io/badge/Repositories-blue" />
-  </strong> Stay updated on free & open-source projects</small>
-</p>
-<p>
-  <a href="https://www.youtube.com/@zeba.academy">
-    <img alt="YouTube" align="center" src="https://img.icons8.com/material-outlined/24/000000/youtube.png" />
-  </a>&nbsp;
-  <small><strong> <img alt="Youtube @zeba.academy" align="center" src="https://img.shields.io/badge/Subscribe-red" />
-  </strong> Watch videos for insights and tutorials.</small>
-</p>
-<p>
-  <a href="https://code.zeba.academy/">
-    <img alt="Site" align="center" src="https://img.icons8.com/material-outlined/24/000000/blog.png" />
-  </a>&nbsp;
-  <small><strong><img alt="Blog @Code.zeba.academy" align="center" src="https://img.shields.io/badge/Read-white" /></strong> Explore in-depth technical articles</small>
-</p>
-<p>
-  <a href="https://www.linkedin.com/company/parakozm">
-    <img alt="LinkedIn" align="center" src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" />
-  </a>&nbsp;
-  <small><strong> <img alt="Youtube @Parakozm" align="center" src="https://img.shields.io/badge/Stay_Connect-blue" />
-  </strong></strong> Connect on my LinkedIn profile</small>
-</p>
-<p>
-  <a href="https://www.instagram.com/zeba.academy/">
-    <img alt="Instagram" align="center" src="https://img.icons8.com/material-outlined/24/000000/instagram.png" />
-  </a>&nbsp;
-  <small><strong> <strong> <img alt="Instagram @zeba.academy" align="center" src="https://img.shields.io/badge/Follow_Us-red" />
-  </strong> </strong> Follow my Instagram for updates and insights</small>
-</p>
-
-</br>
-<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
-You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/)
+You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin](https://www.linkedin.com/in/sufyanism/).
 
 </br>
 
@@ -214,6 +173,9 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Visit our main site: **[zeba.academy](https://zeba.academy)** 
 </br>
 ➡ Explore hands-on courses and resources at: **[code.zeba.academy](https://code.zeba.academy)**
+➡ Check out our YouTube channel for more tutorials: [Zeba Academy](https://www.youtube.com/@zeba.academy)
+➡ Follow us on Instagram: [Zeba Academy](https://www.instagram.com/zeba.academy/)
+
 
 </br>
 <div style="margin-top:30px;"></div> <!-- adds space above -->
