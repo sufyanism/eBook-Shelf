@@ -146,11 +146,12 @@ You can further expand with endpoints for **create**, **update**, **delete** (CR
 <div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ## eBook-Shelf Screenshots
-
-### 📷 
+📷 
 ![Ebook Shelf](https://github.com/user-attachments/assets/d96c10f0-d8b2-4650-8f44-dadafa9c462d)
 
-### 🎥 
+</br>
+
+🎥 
 https://github.com/user-attachments/assets/332c4ef2-cc42-486e-a04d-d892ab84dc27
 
 </br>
@@ -159,7 +160,9 @@ https://github.com/user-attachments/assets/332c4ef2-cc42-486e-a04d-d892ab84dc27
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
-You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin](https://www.linkedin.com/in/sufyanism/).
+You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on  <a href="https://www.instagram.com/zeba.academy/">
+    <img alt="Linkedin" align="center" src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" />
+  </a>  [sufyanism](https://www.linkedin.com/in/sufyanism/).
 
 </br>
 
@@ -173,10 +176,14 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Visit our main site: **[zeba.academy](https://zeba.academy)** 
 </br>
 ➡ Explore hands-on courses and resources at: **[code.zeba.academy](https://code.zeba.academy)** </br>
-➡ Check out our **YouTube** channel for more tutorials: [Zeba Academy](https://www.youtube.com/@zeba.academy) </br>
-➡ Follow us on **Instagram**: [Zeba Academy](https://www.instagram.com/zeba.academy/) </br>
+➡ Check out our  <a href="https://www.instagram.com/zeba.academy/">
+    <img alt="Youtube" align="center" src="https://img.icons8.com/material-outlined/24/000000/youtube.png" />
+  </a> channel for more tutorials: **[Zeba Academy]** (https://www.youtube.com/@zeba.academy) </br>
+➡ Follow us on  <a href="https://www.instagram.com/zeba.academy/">
+    <img alt="Instagram" align="center" src="https://img.icons8.com/material-outlined/24/000000/instagram.png" />
+  </a> : **[Zeba Academy]** (https://www.instagram.com/zeba.academy/) </br>
 
-
+   
 </br>
 <div style="margin-top:30px;"></div> <!-- adds space above -->
 
