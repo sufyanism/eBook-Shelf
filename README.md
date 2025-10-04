@@ -13,7 +13,7 @@ A simple bookshelf web app that lists eBooks, built with React (Vite) for the fr
    2. [Setup & Run](#setup--run)  
 5. [Project Structure](#project-structure)  
 6. [API Endpoints](#api-endpoints)  
-7. [eBook-Shelf Screenshots](#ebook-shelf-screenshots)  
+7. [Demo](#demo)  
 8. [About](#about-me)
 9. [Learning Hub](#your-all-in-one-learning-hub)
 
@@ -145,13 +145,13 @@ You can further expand with endpoints for **create**, **update**, **delete** (CR
 </br>
 <div style="margin-top:20px;"></div> <!-- adds space above -->
 
-## eBook-Shelf Screenshots
+## Demo
  
 ![Ebook Shelf](https://github.com/user-attachments/assets/d96c10f0-d8b2-4650-8f44-dadafa9c462d)
 
 </br>
-https://github.com/user-attachments/assets/45a533f3-6f32-45a6-923d-4e2c0d7cf32f
 
+https://github.com/user-attachments/assets/227e48d0-28d0-4373-88bf-07629fa20efd
 
 </br>
 <div style="margin-top:20px;"></div> <!-- adds space above -->
