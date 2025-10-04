@@ -147,18 +147,13 @@ You can further expand with endpoints for **create**, **update**, **delete** (CR
 
 
 ## eBook-Shelf Screenshots
-
-```
 📷  
-
 ![Ebook Shelf](https://github.com/user-attachments/assets/d96c10f0-d8b2-4650-8f44-dadafa9c462d)
 
 <br><!-- Adds extra space -->
 
 📹
-
 https://github.com/user-attachments/assets/da951f4c-0fbe-4b03-8506-65db737dab8b
-```
 
 </br>
 <div style="margin-top:20px;"></div> <!-- adds space above -->
