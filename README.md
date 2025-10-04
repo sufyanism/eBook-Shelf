@@ -148,10 +148,10 @@ You can further expand with endpoints for **create**, **update**, **delete** (CR
 
 ## eBook-Shelf Screenshots
 
-### Screenshot
+### 📷 
 ![Ebook Shelf](https://github.com/user-attachments/assets/d96c10f0-d8b2-4650-8f44-dadafa9c462d)
 
-### Screecast
+### 🎥 
 https://github.com/user-attachments/assets/332c4ef2-cc42-486e-a04d-d892ab84dc27
 
 </br>
