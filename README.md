@@ -178,10 +178,10 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Explore hands-on courses and resources at: **[code.zeba.academy](https://code.zeba.academy)** </br>
 ➡ Check out our  <a href="https://www.instagram.com/zeba.academy/">
     <img alt="Youtube" align="center" src="https://img.icons8.com/material-outlined/24/000000/youtube.png" />
-  </a> channel for more tutorials: **[Zeba Academy]** (https://www.youtube.com/@zeba.academy) </br>
+  </a> channel for more tutorials: **[Zeba Academy] (https://www.youtube.com/@zeba.academy)** </br>
 ➡ Follow us on  <a href="https://www.instagram.com/zeba.academy/">
     <img alt="Instagram" align="center" src="https://img.icons8.com/material-outlined/24/000000/instagram.png" />
-  </a> : **[Zeba Academy]** (https://www.instagram.com/zeba.academy/) </br>
+  </a> : **[Zeba Academy] (https://www.instagram.com/zeba.academy/)** </br>
 
    
 </br>
